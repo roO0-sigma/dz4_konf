@@ -1,0 +1,234 @@
+[
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 10
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 1
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 11
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 4
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 12
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 9
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 13
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 16
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 14
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 25
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 15
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 36
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 16
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 49
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 17
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 64
+    },
+    {
+        "key": "WRITE_MEM",
+        "A": 62
+    },
+    {
+        "key": "WRITE_MEM",
+        "A": 62
+    },
+    {
+        "key": "WRITE_MEM",
+        "A": 62
+    },
+    {
+        "key": "WRITE_MEM",
+        "A": 62
+    },
+    {
+        "key": "WRITE_MEM",
+        "A": 62
+    },
+    {
+        "key": "WRITE_MEM",
+        "A": 62
+    },
+    {
+        "key": "WRITE_MEM",
+        "A": 62
+    },
+    {
+        "key": "WRITE_MEM",
+        "A": 62
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 10
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 10
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 11
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 11
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 12
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 12
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 13
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 13
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 14
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 14
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 15
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 15
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 16
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 16
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 17
+    },
+    {
+        "key": "LOAD_CONST",
+        "A": 90,
+        "B": 17
+    },
+    {
+        "key": "SQRT",
+        "A": 137,
+        "B": 0
+    },
+    {
+        "key": "SQRT",
+        "A": 137,
+        "B": 0
+    },
+    {
+        "key": "SQRT",
+        "A": 137,
+        "B": 0
+    },
+    {
+        "key": "SQRT",
+        "A": 137,
+        "B": 0
+    },
+    {
+        "key": "SQRT",
+        "A": 137,
+        "B": 0
+    },
+    {
+        "key": "SQRT",
+        "A": 137,
+        "B": 0
+    },
+    {
+        "key": "SQRT",
+        "A": 137,
+        "B": 0
+    },
+    {
+        "key": "SQRT",
+        "A": 137,
+        "B": 0
+    }
+]

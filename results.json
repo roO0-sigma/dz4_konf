@@ -1,0 +1,36 @@
+{
+    "memory_units": [
+        {
+            "unit": 10,
+            "value": 1.0
+        },
+        {
+            "unit": 11,
+            "value": 2.0
+        },
+        {
+            "unit": 12,
+            "value": 3.0
+        },
+        {
+            "unit": 13,
+            "value": 4.0
+        },
+        {
+            "unit": 14,
+            "value": 5.0
+        },
+        {
+            "unit": 15,
+            "value": 6.0
+        },
+        {
+            "unit": 16,
+            "value": 7.0
+        },
+        {
+            "unit": 17,
+            "value": 8.0
+        }
+    ]
+}
